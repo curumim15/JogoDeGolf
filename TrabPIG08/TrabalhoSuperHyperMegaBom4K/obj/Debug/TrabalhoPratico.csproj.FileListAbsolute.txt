@@ -1,0 +1,49 @@
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.FormMain.resources
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Menu.resources
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Opçoes.resources
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Properties.Resources.resources
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.exe
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.pdb
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoSuperHyperMegaBom4K.exe.config
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoSuperHyperMegaBom4K.exe
+C:\Users\andre\Desktop\TrabalhoFinal\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoSuperHyperMegaBom4K.pdb
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.Properties.Resources.resources
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.FormMain.resources
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Menu.resources
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Opçoes.resources
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.exe
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.pdb
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.exe
+C:\Users\andre\Desktop\Nova pasta (2)\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.pdb
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.exe
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.pdb
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.FormMain.resources
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Menu.resources
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Opçoes.resources
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.Properties.Resources.resources
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.exe
+C:\Users\andre\Desktop\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.pdb
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.exe.config
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.exe
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\bin\Debug\TrabalhoPratico.pdb
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.SuggestedBindingRedirects.cache
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.FormMain.resources
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Menu.resources
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoSuperHyperMegaBom4K.Opçoes.resources
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.Properties.Resources.resources
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.GenerateResource.cache
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.exe
+C:\Users\berna\Escola\PROGIG\TrabalhoPratico\TrabPIG08\TrabalhoSuperHyperMegaBom4K\obj\Debug\TrabalhoPratico.pdb
